@@ -1,46 +1,79 @@
-Privacy Policy  
+Privacy Policy for Coding Warehouse
+===================================
+
+At Pyramid Stack: Tower Challenge, accessible from https://play.google.com/store/apps/details?id=com.nabeel.pyramidstack, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Pyramid Stack: Tower Challenge and how we use it.
+
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
+
+General Data Protection Regulation (GDPR)
+-----------------------------------------
+
+We are a Data Controller of your information.
+
+Coding Warehouse legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Information we collect and the specific context in which we collect the information:
+
+*   Coding Warehouse needs to perform a contract with you
+*   You have given Coding Warehouse permission to do so
+*   Processing your personal information is in Coding Warehouse legitimate interests
+*   Coding Warehouse needs to comply with the law
+
+Coding Warehouse will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your information to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our policies.
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. If you wish to be informed what Personal Information we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+*   The right to access, update or to delete the information we have on you.
+*   The right of rectification.
+*   The right to object.
+*   The right of restriction.
+*   The right to data portability
+*   The right to withdraw consent
+
+Log Files
+---------
+
+Pyramid Stack: Tower Challenge follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
+
+Cookies and Web Beacons
+-----------------------
+
+Like any other website, Pyramid Stack: Tower Challenge uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
+
+Google DoubleClick DART Cookie
+------------------------------
+
+Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads)
+
+Privacy Policies
 ----------------
 
-### Introduction  
-Our privacy policy will help you understand what information we collect at Coding Warehouse, how Pyramid Stack uses it, and what choices you have.
-Pyramid Stack built the Pyramid Stack app as a free app. This SERVICE is provided by Coding Warehouse at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
+You may consult this list to find the Privacy Policy for each of the advertising partners of Pyramid Stack: Tower Challenge.
 
-### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Pyramid Stack: Tower Challenge, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
 
-### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+Note that Pyramid Stack: Tower Challenge has no access to or control over these cookies that are used by third-party advertisers.
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+Third Party Privacy Policies
+----------------------------
 
-### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
+Pyramid Stack: Tower Challenge's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
 
-### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
 
-### Service Providers  
-We may employ third-party companies and individuals due to the following reasons:  
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.  
+Children's Information
+----------------------
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
+Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
 
-### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
+Pyramid Stack: Tower Challenge does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
 
-### Children’s Privacy  
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
+Online Privacy Policy Only
+--------------------------
 
-### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+Our Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Pyramid Stack: Tower Challenge. This policy is not applicable to any information collected offline or via channels other than this website.
 
-### Contact Us  
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:  
-Email: nabilkrissane.225@gmail.com 
+Consent
+-------
+
+By using our website, you hereby consent to our Privacy Policy and agree to its terms.
